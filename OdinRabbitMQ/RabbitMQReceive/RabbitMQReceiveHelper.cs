@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQConfigModel;
+using OdinPlugs.OdinModels.ConfigModel.RabbitMQ;
 using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQModel;
 using OdinPlugs.OdinMQ.OdinRabbitMQ.RabbitMQBase;
 using RabbitMQ.Client;

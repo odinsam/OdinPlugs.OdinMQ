@@ -3,10 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQConfigModel;
 using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQModel;
 using OdinPlugs.OdinMQ.OdinRabbitMQ.RabbitMQBase;
 using RabbitMQ.Client;
+using OdinPlugs.OdinModels.ConfigModel.RabbitMQ;
 
 namespace OdinPlugs.OdinMQ.OdinRabbitMQ.RabbitMQSend
 {

@@ -1,4 +1,4 @@
-using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQConfigModel;
+using OdinPlugs.OdinModels.ConfigModel.RabbitMQ;
 using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQModel;
 
 namespace OdinPlugs.OdinMQ.OdinRabbitMQ.RabbitMQSend

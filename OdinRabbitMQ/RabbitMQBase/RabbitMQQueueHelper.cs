@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQConfigModel;
+using OdinPlugs.OdinModels.ConfigModel.RabbitMQ;
 
 namespace OdinPlugs.OdinMQ.OdinRabbitMQ.RabbitMQBase
 {

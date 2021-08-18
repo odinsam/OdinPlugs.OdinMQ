@@ -30,5 +30,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OdinPlugs.OdinInject\OdinPlugs.OdinInject.csproj" />
+    <ProjectReference Include="..\OdinPlugs.OdinModels\OdinPlugs.OdinModels.csproj" />
   </ItemGroup>
 </Project>

@@ -1,6 +1,6 @@
 using System;
 using OdinPlugs.OdinInject.InjectInterface;
-using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQConfigModel;
+using OdinPlugs.OdinModels.ConfigModel.RabbitMQ;
 using OdinPlugs.OdinMQ.OdinRabbitMQ.Models.RabbitMQModel;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
